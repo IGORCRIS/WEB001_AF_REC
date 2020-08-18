@@ -1,1 +1,6 @@
 $ cd WEB001_AF_REC
+$ git status
+$ git add *
+$ git status
+$ git commit -m "meu commit de recuperação"
+$ git push origin master
